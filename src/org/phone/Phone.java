@@ -3,6 +3,7 @@ package org.phone;
 public class Phone {
 	public void phoneInfo(String city, int number) {
 		System.out.println(city+"\t"+number);
+		System.out.println("hai");
 	}
 	public void phoneInfo(int number, String city) {
 		System.out.println(number+"\t"+city);
